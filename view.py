@@ -6,3 +6,5 @@ def index(request):
 
 def login(request):
     return redirect('/index')
+
+#测试
